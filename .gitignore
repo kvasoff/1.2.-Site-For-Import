@@ -1,0 +1,10 @@
+# tmp dircetory
+/tmp
+
+# old and backup
+*old
+*backup
+
+# Thumbs.db and .DS_Store
+Thumbs.db
+*.DS_Store
